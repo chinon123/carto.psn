@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/espace-france-numerique-ensemble/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/espace-france-numerique-ensemble/"}
 ---
 
 
