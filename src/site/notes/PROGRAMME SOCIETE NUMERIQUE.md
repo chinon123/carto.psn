@@ -52,7 +52,7 @@ via les liens sur chaque note
 2. récupérer tous les fichiers .md 
 ### .md
 
-Le format utilisé est le markdown (.md). Il est largement utilisé 
+Le format utilisé est le markdown (.md). Il a l'avantage d'être un format interopérable. 
 # programme société numérique 
 ### rappel
 
