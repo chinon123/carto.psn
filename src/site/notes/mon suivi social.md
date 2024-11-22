@@ -1,7 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/mon-suivi-social/"}
+{"dg-publish":true,"permalink":"/mon-suivi-social/","tags":["outil"]}
 ---
 
+# caractéristiques 
 
-
-#outil 
+- clients 
+	- CCAS 
+	- petites communes 
+- maturité 
+	- jeune
+- enjeux 
+	- interconnexions 
