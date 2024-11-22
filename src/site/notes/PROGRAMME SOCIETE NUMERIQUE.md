@@ -29,6 +29,14 @@ Le site internet s'appui sur la pipeline de travail suivante :
 	* https://cartopsn.vercel.app/
 	* https://cartopsn-chinon123s-projects.vercel.app/ (url miror)
 
+### comment naviguer 
+
+via la vue en graph et ses trois niveaux (à droite)
+![Pasted image 20241122144815.png](/img/user/Pasted%20image%2020241122144815.png)
+via tree map (à gauche)
+![Pasted image 20241122144717.png](/img/user/Pasted%20image%2020241122144717.png)
+via les liens sur chaque note 
+![Pasted image 20241122144740.png](/img/user/Pasted%20image%2020241122144740.png)
 # reproductibilité 
 
 ### via obsidian 
