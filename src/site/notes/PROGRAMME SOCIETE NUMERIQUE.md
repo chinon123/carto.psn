@@ -4,7 +4,7 @@
 
 # carto.psn 
 
-Projet flash pour cartographier le site internet https://www.societenumerique.gouv.fr/ et l'écosystème dans lequel il s'inscrit. 
+Projet flash pour cartographier le site internet https://www.societenumerique.gouv.fr/ et l'inclusion numérique français. 
 ### problématique 
 
 L'inclusion numérique est un enjeu complexe à appréhender en raison : 
@@ -29,6 +29,23 @@ Le site internet s'appui sur la pipeline suivante :
 	* https://cartopsn.vercel.app/
 	* https://cartopsn-chinon123s-projects.vercel.app/ (url miror)
 
+# reproductibilité 
+
+### via obsidian 
+
+1. aller dans github 
+2. récupérer tous les fichiers .md 
+3. aller dans obsidian
+4. créer un vault 
+5. déposer tous les fichiers .md récupérés 
+### via autres outils 
+
+1. aller dans github 
+2. récupérer tous les fichiers .md 
+
+### .md
+
+Le format utilisé est le markdown (.md). Il est largement utilisé 
 # programme société numérique 
 ### rappel
 
@@ -39,11 +56,16 @@ Le Programme Société Numérique de l’Agence Nationale de la Cohésion des Te
 [[mission 2 numériques en commun\|mission 2 numériques en commun]]
 [[mission 3 labo société numérique\|mission 3 labo société numérique]]
 [[ressources\|ressources]]
-### directrices 
+### directrices du programme
 
 [[lea gislais\|lea gislais]]
 [[marine jouan\|marine jouan]]
 
-### acteurs 
+### acteurs de l'inclusion numérique 
 
 [[ANCT\|ANCT]]
+[[emmaus connect\|emmaus connect]]
+[[MEDNUM\|MEDNUM]]
+[[GIP PIX\|GIP PIX]]
+[[APTIC\|APTIC]]
+[[PLIE\|PLIE]]
