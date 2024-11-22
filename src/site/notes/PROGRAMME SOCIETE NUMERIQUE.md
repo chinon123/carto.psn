@@ -20,7 +20,7 @@ L'inclusion numérique est un enjeu complexe à appréhender en raison :
 La carto.psn est un projet sous licence GNU pour aider à appréhender la localisation et la portée du Programme Société Numérique par rapport à l'inclusion numérique à travers ses différentes dimensions (outils et acteurs notamment).
 ### outil 
 
-Le site internet s'appui sur la pipeline de travail suivante : 
+Le site internet s'appuie sur la pipeline de travail suivante : 
 * [obsidian](https://duckduckgo.com/?q=obidian&ia=web) pour la création des notes et des liens 
 * [obsidian:digital garden](https://duckduckgo.com/?q=obsidian+digital+garden&ia=web) pour gérer la publication 
 * [github](https://github.com/chinon123/carto.psn) pour l'hébergement des notes 
